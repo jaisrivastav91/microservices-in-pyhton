@@ -1,2 +1,2 @@
-# microservices-in-pyhton
-microservices-in-pyhton
+# microservices-in-python
+microservices-in-python
